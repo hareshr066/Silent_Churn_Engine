@@ -1,0 +1,17 @@
+=== Model Comparison Report ===
+
+--- RandomForest ---
+Accuracy:  0.7906
+Precision: 0.6396
+Recall:    0.4840
+F1 Score:  0.5510
+ROC AUC:   0.8222
+
+--- XGBoost ---
+Accuracy:  0.7970
+Precision: 0.6507
+Recall:    0.5080
+F1 Score:  0.5706
+ROC AUC:   0.8432
+
+Selected Best Model: XGBoost
